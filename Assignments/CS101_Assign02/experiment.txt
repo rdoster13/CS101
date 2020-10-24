@@ -1,0 +1,11 @@
+I first attempted to use strategy 1: sticking with my original choice after Monty revealed the goat. 
+Using this technique, I picked door 1 each time and I won 9 of the 20 games with a win percentage of 45.00%.
+
+I then attempted to use technique 2: switching my door choice after the reveal.
+Using this strategy, i started with door one each time, 
+then switched to the other choice that wasn't Monty's reveal.
+THis strategy yielded 17 of 20 games won with a win percentage of 80.95%.
+
+In the end the second strategy yielded far greater results in winning. 
+I won 17 games, compared to 9 using the first strategy.
+My win percentage was 80.95% compared to the 45.00% with the first strategy.
